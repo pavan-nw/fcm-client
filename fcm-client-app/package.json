@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "classnames": "^2.2.5",
+    "firebase": "^4.10.0",
+    "font-awesome": "^4.7.0",
+    "primereact": "^1.4.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.1.1"
+    "react-scripts": "1.1.1",
+    "react-transition-group": "^2.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
