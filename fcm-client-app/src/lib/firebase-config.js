@@ -11,13 +11,4 @@ import * as firebase from "firebase";
 //     messagingSenderId: "715065746267"
 //   };
 
-const sgcmConfig = {
-  apiKey: "AIzaSyCbS5r-sLFrCI49A4QSEauuAFdU1EVzRH0",
-  authDomain: "sgcm-194206.firebaseapp.com",
-  databaseURL: "https://sgcm-194206.firebaseio.com",
-  projectId: "sgcm-194206",
-  storageBucket: "sgcm-194206.appspot.com",
-  messagingSenderId: "1027703990575"
-};
-
 export default firebase.initializeApp(sgcmConfig);
